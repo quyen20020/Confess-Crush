@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "yeuchi<3,
+    titleWeb: "yeuchi<3",
     introTitle: 'Zịt Hạ',
     introDesc: `Mình cũng quen nhau được lâu lắm rùi ha chị🥰`,
     btnIntro: '^^HiHi^^',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Coi xong cx đồng ý rùi thì qua nt vs mềnh đê.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/buonnguthidinguthoi
+    messLink: 'https://www.facebook.com/buonnguthidinguthoi'
 }
